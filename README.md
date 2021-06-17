@@ -1,16 +1,8 @@
-# Repositorio semilla: API NodeJS :seedling:
+# Autenticación de una API en NodeJS :lock:
 
-> Este es uno de los repositorios que utilizamos en la serie **Tu primera aplicación full stack: NodeJS + React**, [disponible en YouTube](https://www.youtube.com/playlist?list=PL7q-McYJyHlgVGQIRYVKl381twyJ4XM_h). Te recomendamos que mires la serie para entender un poco más sobre las tecnologías que elegimos. :smiley:
+## ¡No te pierdas el video!
 
-¡Bienvenida/o! En este repositorio encontrarás una plantilla (de las infinitas posibles) para crear una API utilizando NodeJS. Las principales tecnologías que utilizamos son:
-
-- [NodeJS](https://nodejs.org/es/): entorno de ejecución para JavaScript.
-- [ExpressJS](https://expressjs.com/): framework para crear aplicaciones web.
-- [Sequelize](https://sequelize.org/master/): ORM (object-relational mapping) para interactuar con una base SQL desde objetos JavaScript.
-- [PostgreSQL](https://www.postgresql.org/): base de datos SQL.
-- [Jest](https://jestjs.io/): framework para escribir tests.
-
-Para crear un proyecto siguiendo esta plantilla, lo único que tenés que hacer es clickear en el botón que dice `Use this template`. ¡Y no te olvides de cambiarle el nombre en el `package.json`!
+Este código fue elaborado en vivo para el canal [El Sur también programa](https://youtube.com/c/elsurtambienprograma). Te recomendamos ver el video [Cómo implementar autenticación en una API NodeJS](https://www.youtube.com/watch?v=rVhMzbLOjQA).
 
 ## :point_up: Prerrequisitos - para instalar antes de empezar
 
